@@ -1,0 +1,4 @@
+
+Add a plain text file with a message:
+
+Hello, this is a message from the server.
